@@ -1,12 +1,12 @@
-# 🧠 Customer Segmentation using RFM Analysis
+#  Customer Segmentation using RFM Analysis
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Businesses often struggle to identify high-value customers and optimize marketing strategies, leading to inefficient targeting and low customer retention.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 * Segment customers based on purchasing behavior
 * Identify high-value, loyal, and at-risk customers
@@ -14,14 +14,14 @@ Businesses often struggle to identify high-value customers and optimize marketin
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 * Python (Pandas, Matplotlib)
 * Jupyter Notebook
 
 ---
 
-## 🔹 Approach
+##  Approach
 
 Customer segmentation was performed using **RFM Analysis**:
 
@@ -31,17 +31,17 @@ Customer segmentation was performed using **RFM Analysis**:
 
 ---
 
-## 📊 RFM Overview
+##  RFM Overview
 
-![RFM Table](images/rfm_table.png)
+![RFM Table] https://github.com/NuraMishra/Customer_Segmentation/blob/main/rfm_table.png
 
 The table captures customer behavior across recency, frequency, and monetary dimensions.
 
 ---
 
-## 📎 Customer Segments
+##  Customer Segments
 
-![Segment Table](images/segment_table.png)
+![Segment Table] https://github.com/NuraMishra/Customer_Segmentation/blob/main/segment_table.png
 
 Customers were classified into key segments:
 
@@ -52,17 +52,17 @@ Customers were classified into key segments:
 
 ---
 
-## 📈 Segment Distribution
+##  Segment Distribution
 
-![Segment Chart](images/segment_chart.png)
+![Segment Chart] https://github.com/NuraMishra/Customer_Segmentation/blob/main/segment_chart.png
 
 The majority of customers fall under **At Risk and Average segments**, indicating a potential churn risk.
 
 ---
 
-## 📊 Segment Analysis
+##  Segment Analysis
 
-![Segment Summary](images/segment_summary.png)
+![Segment Summary] https://github.com/NuraMishra/Customer_Segmentation/blob/main/segment_summary.png
 
 * High Value customers contribute the most revenue
 * At Risk customers show long inactivity
@@ -70,7 +70,7 @@ The majority of customers fall under **At Risk and Average segments**, indicatin
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 * A large portion of customers are **at risk**, indicating potential revenue loss
 * A small group of **high-value customers drives most of the revenue**
@@ -78,7 +78,7 @@ The majority of customers fall under **At Risk and Average segments**, indicatin
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 * Introduce **loyalty programs** for high-value customers
 * Run **targeted campaigns** for at-risk customers
@@ -87,11 +87,10 @@ The majority of customers fall under **At Risk and Average segments**, indicatin
 
 ---
 
-## 📂 Project Files
+##  Project Files
 
-* `customer_segmentation.ipynb`
-* `dataset.csv`
-* `images/`
+*  https://github.com/NuraMishra/Customer_Segmentation/blob/main/customer_segmentation.ipynb
+*  https://github.com/NuraMishra/Customer_Segmentation/blob/main/customer_segmentation_dataset.csv
 
 ---
 
